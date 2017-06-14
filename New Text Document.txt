@@ -28,4 +28,9 @@ git checkout branch2
 git checkout branch1
 коммиты с ветки 1 попадут в ветку 2
 
-10.
+10. cherry-pick
+перекл на ветку куда надо коммит вставить
+git checkout master
+написать какой коммит вставить
+git cherry-pick 62ec3
+

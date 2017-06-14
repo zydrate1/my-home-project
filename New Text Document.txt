@@ -1,0 +1,22 @@
+1. clone
+in folder to copy: 
+git clone https://github.com/zydrate1/my-home-project.git
+
+2. index project to git
+in folder:
+git init
+
+3. create file
+touch smth.txt
+
+4. git add .
+
+5. git commit -m "Add smth"
+
+6. git push origin master
+
+7. create new branch
+git checkout -b develop
+
+8.switch branch
+git ckeckout develop
